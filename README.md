@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there 👋, I'm Francesco</h1>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fstasi&show_icons=true" alt="fstasi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fstasi&show_icons=true&count_private=true" alt="fstasi" /></p>
