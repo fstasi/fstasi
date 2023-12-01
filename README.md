@@ -1,5 +1,5 @@
 # Hi, I'm Francesco! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-Hey there! I'm Francesco, a software engineer from Italy 🇮🇹.
+A software engineer from Italy 🇮🇹.
 
 - 🐶 Senior software engineer at [Datadog](https://datadoghq.com)
 - 👨‍💻 I love Frontend, TypeScript, and building experiments
